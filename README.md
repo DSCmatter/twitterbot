@@ -2,7 +2,7 @@
 
 This is a twitter bot supposedly made to reply to a post as given by the 'id' provided by the user 
 
-keys/tokens are removed for privacy reasons:
+keys/tokens are removed for privacy reasons
 
 To be noted:
 This bot has 0auth access which means it can only do certain things which include:
