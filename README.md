@@ -13,3 +13,9 @@ This bot has 0auth access which means it can only do certain things which includ
 PS- There are many limiations to having free access since it does this much only as of 2024 
 
 --> You can only use "Twitterbot.py" as of now 
+
+prerequisites: 
+Must have installed tweepy
+-->You can do this by simply opening your cmd and type, pip install tweepy
+Make sure you have installed the latest version
+
