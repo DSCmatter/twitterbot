@@ -14,6 +14,8 @@ PS- There are many limiations to having free access since it does this much only
 
 --> You can only use "Twitterbot.py" as of now 
 
+If you have more access to the api then you can do much more like following someone, retweet, like a post/tweet etc.
+
 prerequisites: 
 Must have installed tweepy
 -->You can do this by simply opening your cmd and type, pip install tweepy
