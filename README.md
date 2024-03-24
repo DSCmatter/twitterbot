@@ -1,23 +1,28 @@
-# twitterbot
+# Twitter Bot
 
-This is a twitter bot supposedly made to reply to a post as given by the 'id' provided by the user 
+This is a Twitter bot designed to reply to a post as specified by the 'id' provided by the user.
 
-keys/tokens are removed for privacy reasons
+## Functionality
+- This bot uses OAuth access, allowing it to perform limited actions on Twitter.
+- Current capabilities include:
+  - Creating a text-based post.
+  - Replying to a specified 'id' provided by the user with a text.
+  
+## Limitations
+- Due to using OAuth access, the bot has limited functionality.
+- As of 2024, it can only perform the actions mentioned above.
 
-To be noted:
-This bot has 0auth access which means it can only do certain things which include:
+## Usage
+- Use `Twitterbot.py` to interact with the bot.
+- Before using the bot, ensure you have installed Tweepy. You can install it by opening your command prompt and typing:
+pip install tweepy
 
-1. Creating a text based post
-2. Replying to specified 'id' given by user with a text
+- Make sure you have installed the latest version of Tweepy.
 
-PS- There are many limiations to having free access since it does this much only as of 2024 
+## Notes
+- If you have more access to the Twitter API, you can extend the functionality of the bot to perform additional actions such as following someone, retweeting, liking a post/tweet, etc.
 
---> You can only use "Twitterbot.py" as of now 
+## Prerequisites
+- Must have installed Tweepy. You can do this by simply opening your command prompt and typing:
 
-If you have more access to the api then you can do much more like following someone, retweet, like a post/tweet etc.
-
-prerequisites: 
-Must have installed tweepy
--->You can do this by simply opening your cmd and type, pip install tweepy
-Make sure you have installed the latest version
-
+##Feel free to contribute to the project or reach out if you have any questions or suggestions!
