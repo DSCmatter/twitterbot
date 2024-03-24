@@ -25,4 +25,4 @@ pip install tweepy
 ## Prerequisites
 - Must have installed Tweepy. You can do this by simply opening your command prompt and typing:
 
-##Feel free to contribute to the project or reach out if you have any questions or suggestions!
+Feel free to contribute to the project or reach out if you have any questions or suggestions!
